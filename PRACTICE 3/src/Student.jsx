@@ -8,6 +8,9 @@ function Student(props){
         </div>
     );
 }
+Student.propTypes = {
+
+}
 Student.defaultProps = {
     name: "Guest",
     age: 0,
