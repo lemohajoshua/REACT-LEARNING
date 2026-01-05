@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  display: grid;
+  justify-content: center;
+  margin: 10rem;
+}
+.card {
+  border: 2px solid rgb(168, 121, 121);
+  border-radius: 1rem;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  width: 20rem;
+  margin: 2rem;
+}
+.card img {
+  width: 60%;
+  margin: auto;
+  border-radius: 50%;
+  border: 0.2rem solid wheat;
+}

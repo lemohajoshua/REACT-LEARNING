@@ -1,0 +1,11 @@
+.my-details {
+  font-size: 50px;
+  text-align: center;
+  background: green;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  margin: 50px;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
